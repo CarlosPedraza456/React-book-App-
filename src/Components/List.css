@@ -1,0 +1,12 @@
+.List{
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+    max-width: 4500px;
+    width: 98%;
+    margin: auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    padding: 0;
+    
+}

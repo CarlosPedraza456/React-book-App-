@@ -1,0 +1,41 @@
+.item{
+    width: 300px;
+    background-color: #DB6E00;
+    color: #FFF;
+    margin-bottom: 5px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.item .image img{
+    width: 250px;
+    height: 350px;
+}
+.item .image{
+    margin: auto;
+    text-align: center;
+}
+.stars{
+    width: 20px;
+}
+.actions button{
+    font-family: 'Poppins', sans-serif;
+}
+.btn-remove{
+    margin-top: 10px;
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: #296F78;
+    color: #FFF;
+}
+.btn-remove:hover{
+    transform: scale(1.1);
+    transition: 0.9s;
+    text-decoration: underline;
+    background-color: #1891A1;
+}
